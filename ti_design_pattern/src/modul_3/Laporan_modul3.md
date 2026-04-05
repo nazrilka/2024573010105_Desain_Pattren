@@ -11,10 +11,22 @@
 # BAB I
 # PENDAHULUAN
 ## 1.1 Latar Belakang
+Perkembangan teknologi informasi yang semakin pesat menuntut mahasiswa di bidang teknologi untuk memahami konsep dasar pemrograman secara mendalam, khususnya pemrograman berorientasi objek (Object-Oriented Programming/OOP). Bahasa pemrograman Java merupakan salah satu bahasa yang широко digunakan karena memiliki struktur yang kuat, mendukung OOP, serta banyak digunakan dalam pengembangan aplikasi skala kecil hingga besar.
+
+Dalam OOP terdapat empat pilar utama yaitu Encapsulation, Inheritance, Polymorphism, dan Abstraction yang menjadi dasar dalam membangun program yang terstruktur, modular, dan mudah dikembangkan. Pemahaman terhadap konsep-konsep ini sangat penting karena menjadi fondasi dalam mempelajari materi lanjutan seperti design pattern.
+
+Oleh karena itu, praktikum ini dilakukan untuk mereview kembali konsep dasar Java dan OOP melalui implementasi langsung dalam bentuk kode program. Dengan adanya praktikum ini, diharapkan mahasiswa dapat lebih memahami cara kerja OOP serta mampu menerapkannya dalam pengembangan perangkat lunak.
 
 ## 1.2 Tujuan Praktikum
 
 Adapun tujuan dari praktikum ini adalah sebagai berikut:
+
+1. Memahami kembali konsep dasar pemrograman Java.
+2. Mengetahui dan memahami empat pilar utama dalam OOP yaitu 3. 3. 3. Encapsulation, Inheritance,  Polymorphism, dan Abstraction.
+3. Mampu mengimplementasikan konsep OOP ke dalam program Java sederhana.
+4. Melatih kemampuan dalam membuat class, object, serta hubungan antar class.
+5. Meningkatkan kemampuan dalam menulis kode yang terstruktur, modular, dan mudah dipahami.
+6. Mempersiapkan dasar yang kuat untuk mempelajari konsep Design Pattern pada perkuliahan selanjutnya.
 
 # BAB II
 # PRAKTIKUM DAN LATIHAN
