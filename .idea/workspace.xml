@@ -5,24 +5,162 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4f8160e-8bf5-4372-8142-81b0859c1544" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar/bagian1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar/bagian2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar/bagian3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar/bagian4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar/bagian5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar/bagian6_pt1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar/bagian6_pt2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar_latihan/Latihan6_pt1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar_latihan/Latihan6_pt2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar_latihan/Latihan6_pt3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Gambar_latihan/Latihan6_pt4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Laporan_praktikum_2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan3/Laporan_modul3.md" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan3/laporan_praktikum_3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan3/Laporan_modul3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_2/bagian_6/Buku.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_2/bagian_6/Buku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_2/bagian_6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_2/bagian_6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_2/bagian_6/Perpustakaan.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_2/bagian_6/Perpustakaan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_3/bagian_6/Tiket.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_3/bagian_6/Tiket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/Latihan/CarTax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/Latihan/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/Latihan/MotorcycleTax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/Latihan/TaxCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/Latihan/TaxStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/Latihan/TruckTax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum1/dengan_ocp/CreditCardPayment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum1/dengan_ocp/EWalletPayment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum1/dengan_ocp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum1/dengan_ocp/PaymentMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum1/dengan_ocp/PaymentProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum1/tampa_ocp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum1/tampa_ocp/PaymentProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum2/dengan_ocp/Discount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum2/dengan_ocp/DiscountCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum2/dengan_ocp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum2/dengan_ocp/PremiumDiscount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum2/dengan_ocp/RegularDiscount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum2/tampa_ocp/DiscountCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum2/tampa_ocp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum3/dengan_ocp/EmailNotifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum3/dengan_ocp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum3/dengan_ocp/NotificationService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum3/dengan_ocp/Notifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum3/dengan_ocp/SMSNotifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum3/tampa_ocp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_5/praktikum3/tampa_ocp/NotificationService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/latihan/Bicycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/latihan/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/latihan/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/latihan/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikum1/dengan_lsp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikum1/dengan_lsp/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikum1/dengan_lsp/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikum1/dengan_lsp/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikum1/tampa_lsp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikum1/tampa_lsp/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikum1/tampa_lsp/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikum2/tampa_lsp/BlogPost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikum2/tampa_lsp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikum2/tampa_lsp/SocialMediaPost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikum2/tampa_lsp/TwitterPost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum1/DrivingRoute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum1/Navigator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum1/PublicTransportRoute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum1/RouteStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum1/WalkingRoute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum2/BlackWhiteFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum2/BrightFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum2/FilterStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum2/PhotoEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum2/SepiaFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_4/latihan/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_4/latihan/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_4/latihan/OrderCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_4/latihan/OrderPrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_4/latihan/OrderRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_4/pratikum_1/dengan_srp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_4/pratikum_1/dengan_srp/ReportGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_4/pratikum_1/dengan_srp/ReportPrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_4/pratikum_1/dengan_srp/ReportSaver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_4/pratikum_1/tanpa_srp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_4/pratikum_1/tanpa_srp/ReportManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_4/pratikum_2/dengan_srp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_4/pratikum_2/dengan_srp/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_4/pratikum_2/dengan_srp/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_4/pratikum_2/dengan_srp/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_4/pratikum_2/dengan_srpuser.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_4/pratikum_2/tanpa_srp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_4/pratikum_2/tanpa_srp/UserManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/praktikum_4/pratikum_2/tanpa_srpuser.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan2/Laporan_praktikum_2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/Laporan3/laporan_praktikum_3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/Laporan/LaporanSOLID/laporan_praktikum_3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/Latihan/CarTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/Latihan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/Latihan/MotorcycleTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/Latihan/TaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/Latihan/TaxStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/Latihan/TruckTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum1/dengan_ocp/CreditCardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum1/dengan_ocp/EWalletPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum1/dengan_ocp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum1/dengan_ocp/PaymentMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum1/dengan_ocp/PaymentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum1/tampa_ocp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum1/tampa_ocp/PaymentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum2/dengan_ocp/Discount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum2/dengan_ocp/DiscountCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum2/dengan_ocp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum2/dengan_ocp/PremiumDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum2/dengan_ocp/RegularDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum2/tampa_ocp/DiscountCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum2/tampa_ocp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum3/dengan_ocp/EmailNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum3/dengan_ocp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum3/dengan_ocp/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum3/dengan_ocp/Notifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum3/dengan_ocp/SMSNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum3/tampa_ocp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_5/praktikum3/tampa_ocp/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/latihan/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/latihan/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/latihan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/latihan/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikum1/dengan_lsp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikum1/dengan_lsp/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikum1/dengan_lsp/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikum1/dengan_lsp/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikum1/tampa_lsp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikum1/tampa_lsp/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikum1/tampa_lsp/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikum2/tampa_lsp/BlogPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikum2/tampa_lsp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikum2/tampa_lsp/SocialMediaPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikum2/tampa_lsp/TwitterPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum1/DrivingRoute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum1/Navigator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum1/PublicTransportRoute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum1/RouteStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum1/WalkingRoute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum2/BlackWhiteFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum2/BrightFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum2/FilterStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum2/PhotoEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum2/SepiaFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum3/EmailNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum3/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum3/NotificationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum3/PushNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikumStrategy/praktikum3/SMSNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_4/latihan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_4/latihan/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_4/latihan/OrderCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_4/latihan/OrderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_4/latihan/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_4/pratikum_1/dengan_srp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_4/pratikum_1/dengan_srp/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_4/pratikum_1/dengan_srp/ReportPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_4/pratikum_1/dengan_srp/ReportSaver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_4/pratikum_1/tanpa_srp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_4/pratikum_1/tanpa_srp/ReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_4/pratikum_2/dengan_srp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_4/pratikum_2/dengan_srp/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_4/pratikum_2/dengan_srp/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_4/pratikum_2/dengan_srp/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_4/pratikum_2/dengan_srpuser.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_4/pratikum_2/tanpa_srp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_4/pratikum_2/tanpa_srp/UserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/praktikum_4/pratikum_2/tanpa_srpuser.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +212,11 @@
     "Application.Praktikum_2.bagian_5.Latihan.Main.executor": "Run",
     "Application.Praktikum_2.bagian_6.Main.executor": "Run",
     "Application.Praktikum_3.bagian_1.main.executor": "Run",
+    "Application.Praktikum_5.praktikum1.tampa_ocp.Main.executor": "Run",
+    "Application.Praktikum_5.praktikum3.dengan_ocp.Main.executor": "Run",
+    "Application.Praktikum_6_LSP_DAN_STRATEGY.latihan.Main.executor": "Run",
+    "Application.Praktikum_6_LSP_DAN_STRATEGY.praktikum1.tampa_lsp.Main.executor": "Run",
+    "Application.Praktikum_6_LSP_DAN_STRATEGY.praktikumStrategy.praktikum2.Main.executor": "Run",
     "Application.Variable.executor": "Run",
     "Application.laporan1.Latihan.Latihan_modul_1.executor": "Run",
     "Application.laptop.executor": "Run",
@@ -92,12 +235,15 @@
     "Application.modul_3.bagian_5.abstrak.main.executor": "Run",
     "Application.modul_3.bagian_5.antarmuka.main.executor": "Run",
     "Application.overloading.executor": "Run",
+    "Application.praktikum_4.pratikum_1.dengan_srp.Main.executor": "Run",
+    "Application.praktikum_4.pratikum_1.tanpa_srp.Main.executor": "Run",
+    "Application.praktikum_4.pratikum_2.dengan_srp.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/2024573010105_Desain_Pattren/ti_design_pattern/src/laporan1",
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/2024573010105_Desain_Pattren/ti_design_pattern/Laporan/Laporan4",
     "onboarding.tips.debug.path": "C:/Users/Asus/IdeaProjects/2024573010105_Desain_Pattren/ti_design_pattern/Laporan/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
@@ -107,14 +253,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\2024573010105_Desain_Pattren\ti_design_pattern\Laporan\Laporan4" />
       <recent name="C:\Users\Asus\IdeaProjects\2024573010105_Desain_Pattren\ti_design_pattern\src\laporan1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\2024573010105_Desain_Pattren\ti_design_pattern\Laporan\Laporan5\p1" />
       <recent name="C:\Users\Asus\IdeaProjects\2024573010105_Desain_Pattren\ti_design_pattern\Laporan\Laporan2\Gambar_latihan" />
       <recent name="C:\Users\Asus\IdeaProjects\2024573010105_Desain_Pattren\ti_design_pattern\Laporan\laporan1" />
       <recent name="C:\Users\Asus\IdeaProjects\2024573010105_Desain_Pattren\ti_design_pattern\src\Praktikum_1" />
       <recent name="C:\Users\Asus\IdeaProjects\2024573010105_Desain_Pattren\ti_design_pattern\Laporan\Laporan3" />
-      <recent name="C:\Users\Asus\IdeaProjects\2024573010105_Desain_Pattren\ti_design_pattern\src\modul_3\Gambar\Gambar_Latihan" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="laporan1" />
@@ -123,13 +270,13 @@
       <recent name="$PROJECT_DIR$/ti_design_pattern/src/laporan1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Praktikum_2.bagian_6.Main">
+  <component name="RunManager" selected="Application.Praktikum_6_LSP_DAN_STRATEGY.praktikumStrategy.praktikum2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktikum_2.bagian_4.Main" />
+      <option name="MAIN_CLASS_NAME" value="Praktikum_6_LSP_DAN_STRATEGY.praktikum2.tampa_lsp.Main" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Praktikum_2.bagian_4.*" />
+          <option name="PATTERN" value="Praktikum_6_LSP_DAN_STRATEGY.praktikum2.tampa_lsp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +284,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Praktikum_2.bagian_3.Latihan.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktikum_2.bagian_3.Latihan.Main" />
+    <configuration name="Praktikum_6_LSP_DAN_STRATEGY.latihan.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum_6_LSP_DAN_STRATEGY.latihan.Main" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Praktikum_2.bagian_3.Latihan.*" />
+          <option name="PATTERN" value="Praktikum_6_LSP_DAN_STRATEGY.latihan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +297,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Praktikum_2.bagian_4.Latihan.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktikum_2.bagian_4.Latihan.Main" />
+    <configuration name="Praktikum_6_LSP_DAN_STRATEGY.praktikum1.tampa_lsp.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum_6_LSP_DAN_STRATEGY.praktikum1.tampa_lsp.Main" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Praktikum_2.bagian_4.Latihan.*" />
+          <option name="PATTERN" value="Praktikum_6_LSP_DAN_STRATEGY.praktikum1.tampa_lsp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +310,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Praktikum_2.bagian_5.Latihan.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktikum_2.bagian_5.Latihan.Main" />
+    <configuration name="Praktikum_6_LSP_DAN_STRATEGY.praktikumStrategy.praktikum2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum_6_LSP_DAN_STRATEGY.praktikumStrategy.praktikum2.Main" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Praktikum_2.bagian_5.Latihan.*" />
+          <option name="PATTERN" value="Praktikum_6_LSP_DAN_STRATEGY.praktikumStrategy.praktikum2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +323,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Praktikum_2.bagian_6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktikum_2.bagian_6.Main" />
+    <configuration name="praktikum_4.pratikum_2.dengan_srp.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praktikum_4.pratikum_2.dengan_srp.Main" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Praktikum_2.bagian_6.*" />
+          <option name="PATTERN" value="praktikum_4.pratikum_2.dengan_srp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,11 +338,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Praktikum_2.bagian_6.Main" />
-        <item itemvalue="Application.Praktikum_2.bagian_5.Latihan.Main" />
-        <item itemvalue="Application.Praktikum_2.bagian_4.Latihan.Main" />
+        <item itemvalue="Application.Praktikum_6_LSP_DAN_STRATEGY.praktikumStrategy.praktikum2.Main" />
+        <item itemvalue="Application.Praktikum_6_LSP_DAN_STRATEGY.latihan.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Praktikum_2.bagian_3.Latihan.Main" />
+        <item itemvalue="Application.Praktikum_6_LSP_DAN_STRATEGY.praktikum1.tampa_lsp.Main" />
+        <item itemvalue="Application.praktikum_4.pratikum_2.dengan_srp.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -231,6 +378,11 @@
           <url>file://$PROJECT_DIR$/ti_design_pattern/src/Praktikum_2/bagian_2/Main.java</url>
           <line>2</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ti_design_pattern/src/Praktikum_6_LSP_DAN_STRATEGY/praktikum1/tampa_lsp/Main.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/ti_design_pattern/src/Praktikum1/Latihan/Latihan_modul_1_L3.java</url>
